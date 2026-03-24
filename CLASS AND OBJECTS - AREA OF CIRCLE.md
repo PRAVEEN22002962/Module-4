@@ -28,8 +28,8 @@ To write a Python program to take the radius from the user and find the area of 
 ### PROGRAM
 
 ```python
-# REGNO:-212222060013
-# Name:- AKSHAIYAN S
+# REGNO:-212222060177
+# Name:- Pon Praveen K
 import math
 class umbrella:
     def rain(self,r):
